@@ -1,6 +1,6 @@
 $Revision: 331053 $
 
-But : Ce fichier à pour but de définir les règles à respecter lors de vos traductions/mises à jour de fichiers.
+But : Ce fichier a pour but de définir les règles à respecter lors de vos traductions/mises à jour de fichiers.
 
 Structure :
 
@@ -31,7 +31,7 @@ Le caractère d'indentation est un espace (aucune tabulation n'est admise dans le
 
 II - Coding standards :
 
-Le groupe de documentation PHP a choisi d'utiliser les coding standards de PEAR, vous les trouverez ici : 
+Le groupe de documentation PHP a choisi d'utiliser les coding standards de PEAR, vous les trouverez ici :
   http://pear.php.net/manual/fr/standards.php
 Merci donc de les lire et de les appliquer.
 
@@ -57,9 +57,9 @@ Dans un premier temps, nous avons rajouté la balise suivante dans tous les fichi
 
 Pourquoi avons-nous fais cela ?
 
-L'adoption de cette méthode permet de mieux suivre les différences entre la 
-documentation anglaise et française. 
-Vous pourrez le constater en utilisant le script revcheck.php (dans 
+L'adoption de cette méthode permet de mieux suivre les différences entre la
+documentation anglaise et française.
+Vous pourrez le constater en utilisant le script revcheck.php (dans
 phpdoc-fr/scripts/) ou en visitant http://doc.php.net/php/fr/revcheck.php
 
 
